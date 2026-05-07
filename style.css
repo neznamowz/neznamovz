@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+header img{
+    border:3px dashed navy;
+    height:60px;
+}
+
+main h1{
+    color:magenta;
+}
+
+.dd{
+    background-color:black;
+}
+
+.pdd{
+    background-color:darkblue;
+}
+
+.pd{
+    background-color:blueviolet;
+}
+
+footer{
+    background-color:purple;
+    color:white;
+}
+
+main p{
+    background-color:darkcyan;
+}
+    
+header b{
+    color:blue;
+}
